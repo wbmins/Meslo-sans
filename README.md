@@ -14,7 +14,7 @@
 
 ## Use
 
-- Download ![Meslo-HanSans-Adjust.ttf](https://raw.githubusercontent.com/wbmins/Meslo-HanSans-Adjust/master/Meslo-HanSans-Adjust.ttf)
+- Download [Meslo-HanSans-Adjust.ttf](https://raw.githubusercontent.com/wbmins/Meslo-HanSans-Adjust/master/Meslo-HanSans-Adjust.ttf)
 
 - `cp Meslo-HanSans-Adjust.ttf  /user/share/fonts/`
 
