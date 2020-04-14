@@ -1,4 +1,4 @@
-# code font
+# a beautiful code font
 
 ## Before
 
@@ -19,3 +19,5 @@
 - `cp Meslo-HanSans-Adjust.ttf  /user/share/fonts/`
 
 - `fc-cache /usr/share/fonts/` or `fc-cache -fv`
+
+- a convenient shell install font `sudo bash flush`
