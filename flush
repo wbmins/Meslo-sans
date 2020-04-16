@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 复制到个人字体目录
-cp Meslo-HanSans-Adjust.ttf ~/.local/share/fonts/ 
+cp Meslo-HanSans-Adjust.ttf /home/pluto/.local/share/fonts/ 
 
 # 刷新字体缓存
 fc-cache -fv
