@@ -1,16 +1,18 @@
 # a beautiful code font
 
-## Before
+> This is an English bold italic font, Chinese bold font
+
+## Fix before
 
 ![图](/img/before.png)
 
-## After
+## Fix after
 
 ![图](/img/after.png)
 
 ## Fix tool
 
-> open　MesloLGS NF Bold Italic.ttf and SourceHanSansCN-Bold.ttf with <http://fontstore.baidu.com/static/editor/index.html>
+> Open　MesloLGS NF Bold Italic.ttf and SourceHanSansCN-Bold.ttf with <http://fontstore.baidu.com/static/editor/index.html>
 
 ## Use
 
